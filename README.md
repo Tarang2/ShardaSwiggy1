@@ -1,2 +1,2 @@
-# ShardaSwiggy1
+# ShardaSwiggy
 Sharda Full Stack Development
